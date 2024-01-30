@@ -1,0 +1,4 @@
+* text=auto
+
+*.lock filter=lfs diff=lfs merge=lfs -text
+*.toml filter=lfs diff=lfs merge=lfs -text
